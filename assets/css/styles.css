@@ -1,0 +1,64 @@
+#promo {
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/g_playerreborn_by_okaria.jpg);
+  background-size:cover;
+  margin-top:85px;
+}
+
+@media (max-width:991px) {
+  #promo {
+    padding:20px;
+  }
+}
+
+#promo .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.65);
+  max-height:800px;
+  margin:0 auto;
+}
+
+@media (max-width:991px) {
+  #promo .jumbotron {
+    padding:20px;
+  }
+}
+
+.fa.fa-linkedin-square {
+  font-size:42px;
+}
+
+p {
+  padding-left:20px;
+}
+
+h2 {
+  padding-left:20px;
+}
+
+.fa.fa-github-square {
+  font-size:42px;
+}
+
+.fa.fa-facebook-square {
+  font-size:42px;
+}
+
+p {
+  word-wrap:initial;
+}
+
+.dark-section {
+  background-color:#073642;
+}
+
+footer {
+  position:fixed;
+}
+
+p {
+  padding-bottom:20px;
+}
+
